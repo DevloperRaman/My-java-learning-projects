@@ -1,4 +1,5 @@
-
+//hello thoday is july 19 2024 
+// and i finish shorting techinic in java;
 
 
 import java.util.*;
